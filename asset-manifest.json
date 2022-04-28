@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/React-Boosted/static/js/main.869e7966.js",
+    "main.css": "/React-Boosted/static/css/main.84c2cbf6.css",
+    "main.js": "/React-Boosted/static/js/main.9dbe2ce3.js",
+    "static/media/logo.svg": "/React-Boosted/static/media/logo.5e856336f6a024bfe93ecd989ad0ef19.svg",
     "index.html": "/React-Boosted/index.html",
-    "main.869e7966.js.map": "/React-Boosted/static/js/main.869e7966.js.map"
+    "main.84c2cbf6.css.map": "/React-Boosted/static/css/main.84c2cbf6.css.map",
+    "main.9dbe2ce3.js.map": "/React-Boosted/static/js/main.9dbe2ce3.js.map"
   },
   "entrypoints": [
-    "static/js/main.869e7966.js"
+    "static/css/main.84c2cbf6.css",
+    "static/js/main.9dbe2ce3.js"
   ]
 }
