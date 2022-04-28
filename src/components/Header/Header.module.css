@@ -1,5 +1,11 @@
 .header {
   display: flex;
-  justify-content: center;
+
   align-content: center;
+  background-color: #fff;
+}
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
